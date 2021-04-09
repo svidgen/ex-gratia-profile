@@ -1,0 +1,20 @@
+{
+  "display_name": "Jon Wire",
+  "payments_accepted": ["paypal"],
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jonwire/",
+  },
+  "sites": {
+    "the pointless dot-com": "https://www.thpeointless.com",
+    "MTG Deck Analyzer": "https://mtg.deckanalyzer.com",
+    "Rate My Disease": "https://www.ratemydisease.com/"
+  },
+  "google_adsense": {
+    "publisher_id": "ca-pub-6115341109827821",
+    "allowed_sites": [
+      "www.thepointless.com",
+      "www.svidgen.com",
+      "mtg.deckanalyzer.com"
+    ]
+  }
+}
